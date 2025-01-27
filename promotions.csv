@@ -1,0 +1,11 @@
+Promotion_ID,Promotion_Type,Start_Date,End_Date,Description,Promotion_Cost
+1,Buy-One-Get-One,2025-01-08,2025-01-22,Promotion_1,292.37
+2,Buy-One-Get-One,2025-01-01,2025-01-17,Promotion_2,441.08
+3,Buy-One-Get-One,2025-01-05,2025-01-22,Promotion_3,356.72
+4,Buy-One-Get-One,2025-01-03,2025-01-18,Promotion_4,367.04
+5,Discount,2025-01-10,2025-01-23,Promotion_5,154.86
+6,Buy-One-Get-One,2025-01-01,2025-01-15,Promotion_6,625.76
+7,Discount,2025-01-01,2025-01-23,Promotion_7,172.1
+8,Discount,2025-01-02,2025-01-24,Promotion_8,161.16
+9,Discount,2025-01-07,2025-01-16,Promotion_9,947.44
+10,Discount,2025-01-10,2025-01-24,Promotion_10,135.77

@@ -1,0 +1,35 @@
+Pricing_ID,Store_ID,Product_ID,Price_Per_Unit,Promotion_Applied,Promotion_Type
+1,1,1,2.18,No,
+2,2,1,2.64,Yes,
+3,3,1,1.95,Yes,Discount
+4,4,1,2.06,Yes,
+5,5,1,2.93,Yes,
+6,6,1,1.99,Yes,Discount
+7,7,1,2.89,No,Discount
+8,8,1,1.59,Yes,Discount
+9,9,1,2.6,Yes,
+10,10,1,2.65,Yes,
+11,11,1,2.21,Yes,Bundle Offer
+12,12,1,2.29,No,Discount
+13,13,1,2.89,Yes,
+14,14,1,1.97,No,Bundle Offer
+15,15,1,2.85,No,Discount
+16,16,1,1.87,Yes,Bundle Offer
+17,17,1,1.53,Yes,
+18,18,1,1.83,Yes,
+19,19,1,2.45,Yes,Discount
+20,20,1,2.86,No,Discount
+21,21,1,2.27,No,
+22,22,1,2.23,Yes,
+23,23,1,2.9,No,Discount
+24,24,1,2.68,No,Discount
+25,25,1,1.64,No,Bundle Offer
+26,26,1,2.14,No,
+27,27,1,1.58,Yes,Discount
+28,28,1,2.1,No,Discount
+29,29,1,1.87,Yes,
+30,30,1,2.17,No,Discount
+31,31,1,1.92,Yes,Discount
+32,32,1,2.16,Yes,Discount
+33,33,1,2.48,Yes,Discount
+34,34,1,2.89,Yes,Discount
